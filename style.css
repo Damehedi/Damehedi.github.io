@@ -135,4 +135,9 @@ body{font-size:14px;background:#fff;margin:0; padding:0; outline:0;}
 	margin-bottom: 30px;
 	text-align: center;
 }
-.content p1{}
+.content p1 {
+	text-align: center;
+	font-size: 1.5pc;
+	display: block;
+	margin-top: -35px;
+}
